@@ -16,7 +16,7 @@ bot.start((ctx) => {
 });
 
 bot.action('subscribe', (ctx) => {
-    ctx.reply('Вот ссылки на партнеров:\n1. https://t.me/partner1\n2. https://t.me/partner2\n3. https://t.me/partner3\n\nПосле подписки нажмите "Проверить".', {
+    ctx.reply('Вот ссылки на партнеров:\n1. https://t.me/+Typ7WlM2m9A2ZWUy\n2. https://t.me/+UgzSDb1VU-xjZGEy\n3. https://t.me/+PF0_ZkNbJIpjYjFi\n\nПосле подписки нажмите "Проверить".', {
         reply_markup: {
             inline_keyboard: [
                 [{ text: 'Проверить', callback_data: 'check' }]
