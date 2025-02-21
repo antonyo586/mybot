@@ -1,0 +1,28 @@
+PPP_P"P
+bot.start((ctx) => {
+    ctx.reply('PP9P5, Q
+P> P8P: P>P: P5P;P5P3QQQQQQ
+P0P<P< P1P>!\n\n' +
+Q P=P0 Q
+Q P=P0 P?QP8QQQQQP0QQQP5P3P> P8P;P>P6P5P=P8P5!\n\n' +
+P8QQ        'P>P2P0P=P8Q        reply_markup: {
+            inline_keyboard: [
+                [{ text: 'PP P5QQP;P8Q P?P>P4P?P8QP>P3P> P1P>P0, P2P0P< P=QP6P=P> P2QQQP8QQQ        'PQQ
+ P=P0 P?P0Q
+P=P5QQ
+P>P2', callback_data: 'subscribe' }]
+            ]
+        }
+    });
+});
+
+bot.action('subscribe', (ctx) => {
+    ctx.reply('P        reply_markup: {
+            inline_keyboard: [
+                [{ text: 'P            ]
+        }
+    });
+});
+
+bot.action('check', (ctx) => {
+Q
